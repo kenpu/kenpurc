@@ -29,6 +29,7 @@ let mapleader=","
 
 set tabstop=4
 set softtabstop=4
+set shiftwidth=4
 set expandtab
 set noshiftround
 set listchars=tab:▸\ ,eol:¬
@@ -44,7 +45,7 @@ set ruler
 set modelines=0
 set hidden
 set ttyfast
-set laststatus=2
+set laststatus=1
 
 :autocmd InsertEnter * set cul
 :autocmd InsertLeave * set nocul
