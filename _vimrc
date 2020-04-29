@@ -8,7 +8,7 @@ call vundle#begin()
     Plugin 'flazz/vim-colorschemes'
     Plugin 'scrooloose/nerdtree'
     Plugin 'dylon/vim-antlr'
-    Plugin 'tpop/vim-fugitive'
+    Plugin 'tpope/vim-fugitive'
 
     " Clojure {{{
     Plugin 'tpope/vim-fireplace'
